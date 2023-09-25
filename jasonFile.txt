@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "picture": "https://example.com/product1.jpg",
+        "title": "Smart Fitness Tracker",
+        "category": "Health",
+        "category_bg": ["#27ae60", "#e74c3c", "#3498db", "#f39c12"],
+        "card_bg": ["#d5f5e3", "#f2dede", "#ecf0f1", "#fef5e7"],
+        "text_button_bg": ["#1e8449", "#c0392b", "#2ecc71", "#d35400"],
+        "description": "Track your daily steps, monitor heart rate, and stay active with this advanced fitness tracker. It's designed to help you achieve your health and fitness goals. Stay motivated and improve your overall well-being.",
+        "price": "$79.99"
+    },
+    {
+        "id": 2,
+        "picture": "https://example.com/product2.jpg",
+        "title": "Educational STEM Kit",
+        "category": "Education",
+        "category_bg": ["#3498db", "#27ae60", "#e74c3c", "#f39c12"],
+        "card_bg": ["#ecf0f1", "#d5f5e3", "#fef5e7", "#f2dede"],
+        "text_button_bg": ["#2ecc71", "#1e8449", "#c0392b", "#d35400"],
+        "description": "Inspire young minds with this STEM kit. It includes hands-on experiments and educational activities that make learning fun. Spark curiosity and creativity in children for a brighter future.",
+        "price": "$49.99"
+    },
+    {
+        "id": 3,
+        "picture": "https://example.com/product3.jpg",
+        "title": "Stylish Denim Jacket",
+        "category": "Clothing",
+        "category_bg": ["#e74c3c", "#27ae60", "#f39c12", "#3498db"],
+        "card_bg": ["#f2dede", "#ecf0f1", "#d5f5e3", "#fef5e7"],
+        "text_button_bg": ["#c0392b", "#2ecc71", "#1e8449", "#d35400"],
+        "description": "Elevate your fashion game with this trendy denim jacket. It's a versatile addition to your wardrobe, perfect for casual outings and cool evenings. Stay stylish and comfortable.",
+        "price": "$59.99"
+    },
+    {
+        "id": 4,
+        "picture": "https://example.com/product4.jpg",
+        "title": "Gourmet Food Basket",
+        "category": "Food",
+        "category_bg": ["#f39c12", "#e74c3c", "#27ae60", "#3498db"],
+        "card_bg": ["#fef5e7", "#f2dede", "#ecf0f1", "#d5f5e3"],
+        "text_button_bg": ["#d35400", "#c0392b", "#2ecc71", "#1e8449"],
+        "description": "Indulge in a culinary adventure with our gourmet food basket. Explore a world of flavors with carefully selected delicacies. Treat yourself or share it as a gift.",
+        "price": "$99.99"
+    },
+    {
+        "id": 5,
+        "picture": "https://example.com/product5.jpg",
+        "title": "Outdoor Adventure Gear",
+        "category": "Sports & Outdoors",
+        "category_bg": ["#9b59b6", "#3498db", "#f39c12", "#27ae60"],
+        "card_bg": ["#e8daef", "#ecf0f1", "#f2dede", "#d5f5e3"],
+        "text_button_bg": ["#8e44ad", "#2ecc71", "#c0392b", "#1e8449"],
+        "description": "Gear up for exciting outdoor adventures with our top-quality gear collection. From camping to hiking, we have the equipment you need to explore the great outdoors.",
+        "price": "$69.99"
+    },
+    {
+        "id": 6,
+        "picture": "https://example.com/product6.jpg",
+        "title": "Educational Book Set",
+        "category": "Books",
+        "category_bg": ["#2980b9", "#f39c12", "#e74c3c", "#27ae60"],
+        "card_bg": ["#d6eaf8", "#ecf0f1", "#f2dede", "#d5f5e3"],
+        "text_button_bg": ["#21618c", "#c0392b", "#2ecc71", "#1e8449"],
+        "description": "Explore the world of knowledge with our educational book set. It includes a diverse range of books that cover various topics and subjects. Fuel your curiosity.",
+        "price": "$59.99"
+    },
+    {
+        "id": 7,
+        "picture": "https://example.com/product7.jpg",
+        "title": "Interactive Learning Toy",
+        "category": "Toys & Games",
+        "category_bg": ["#e67e22", "#f39c12", "#3498db", "#e74c3c"],
+        "card_bg": ["#f9ebcc", "#ecf0f1", "#d5f5e3", "#fef5e7"],
+        "text_button_bg": ["#d35400", "#c0392b", "#1e8449", "#2ecc71"],
+        "description": "Enhance your child's education with our interactive learning toy. It fosters creativity, problem-solving, and fun exploration. Learning has never been this exciting!",
+        "price": "$39.99"
+    },
+    {
+        "id": 8,
+        "picture": "https://example.com/product8.jpg",
+        "title": "Comfortable Sofa Set",
+        "category": "Furniture",
+        "category_bg": ["#16a085", "#e74c3c", "#f39c12", "#27ae60"],
+        "card_bg": ["#d1f2eb", "#f2dede", "#ecf0f1", "#d5f5e3"],
+        "text_button_bg": ["#138d75", "#c0392b", "#2ecc71", "#1e8449"],
+        "description": "Transform your living room with our comfortable sofa set. It offers a perfect blend of style and coziness. Relax, unwind, and entertain guests in style.",
+        "price": "$649.99"
+    },
+    {
+        "id": 9,
+        "picture": "https://example.com/product9.jpg",
+        "title": "Wellness & Relaxation Package",
+        "category": "Health",
+        "category_bg": ["#27ae60", "#f39c12", "#e74c3c", "#3498db"],
+        "card_bg": ["#d5f5e3", "#ecf0f1", "#f2dede", "#fef5e7"],
+        "text_button_bg": ["#1e8449", "#c0392b", "#2ecc71", "#d35400"],
+        "description": "Pamper yourself with our wellness and relaxation package. It includes spa essentials, aromatherapy, and relaxation tools to help you rejuvenate and unwind.",
+        "price": "$129.99"
+    },
+    {
+        "id": 10,
+        "picture": "https://example.com/product10.jpg",
+        "title": "Organic Food Box",
+        "category": "Food",
+        "category_bg": ["#3498db", "#27ae60", "#f39c12", "#e74c3c"],
+        "card_bg": ["#ecf0f1", "#d5f5e3", "#fef5e7", "#f2dede"],
+        "text_button_bg": ["#2ecc71", "#1e8449", "#c0392b", "#d35400"],
+        "description": "Experience the goodness of organic food with our curated food box. It's packed with fresh, healthy, and delicious organic ingredients for your meals.",
+        "price": "$69.99"
+    },
+    {
+        "id": 11,
+        "picture": "https://example.com/product11.jpg",
+        "title": "Advanced Electronics Kit",
+        "category": "Education",
+        "category_bg": ["#27ae60", "#3498db", "#e74c3c", "#f39c12"],
+        "card_bg": ["#d5f5e3", "#ecf0f1", "#f2dede", "#fef5e7"],
+        "text_button_bg": ["#1e8449", "#2ecc71", "#c0392b", "#d35400"],
+        "description": "Embark on an electronic journey with our advanced electronics kit. Learn about circuits, components, and create exciting electronic projects.",
+        "price": "$89.99"
+    },
+    {
+        "id": 12,
+        "picture": "https://example.com/product12.jpg",
+        "title": "Fashionable Clothing Set",
+        "category": "Clothing",
+        "category_bg": ["#e74c3c", "#27ae60", "#f39c12", "#3498db"],
+        "card_bg": ["#f2dede", "#ecf0f1", "#d5f5e3", "#fef5e7"],
+        "text_button_bg": ["#c0392b", "#1e8449", "#2ecc71", "#d35400"],
+        "description": "Upgrade your wardrobe with our fashionable clothing set. It includes stylish outfits for various occasions, ensuring you always look your best.",
+        "price": "$129.99"
+    }
+]
