@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.imgur.com/o0ocMJ7.png",
+    "title": "Smart Fitness Tracker",
+    "category_bg": "#0052ff33",
+    "card_bg": "#D0DCF6",
+    "title_bg": "#0052FF",
+    "category": "Health",
+
+    "description": "Track your daily steps, monitor heart rate, and stay active with this advanced fitness tracker. It's designed to help you achieve your health and fitness goals. Stay motivated and improve your overall well-being.",
+    "price": "$79.99"
+  },
+  {
+    "id": 2,
+    "picture": "https://i.imgur.com/L3Xqccf.png",
+    "title": "Educational STEM Kit",
+    "category_bg": "#ff444a33",
+    "card_bg": "#F6DADB",
+    "title_bg": "#FF444A",
+    "category": "Education",
+
+    "description": "Inspire young minds with this STEM kit. It includes hands-on experiments and educational activities that make learning fun. Spark curiosity and creativity in children for a brighter future.",
+    "price": "$49.99"
+  },
+  {
+    "id": 3,
+    "picture": "https://i.imgur.com/Nc5TyW6.png",
+    "title": "Stylish Denim Jacket",
+    "category_bg": "#79c23f33",
+    "card_bg": "#79c23f26",
+    "title_bg": "#79C23F",
+    "category": "Clothing",
+
+    "description": "Elevate your fashion game with this trendy denim jacket. It's a versatile addition to your wardrobe, perfect for casual outings and cool evenings. Stay stylish and comfortable.",
+    "price": "$59.99"
+  },
+  {
+    "id": 4,
+    "picture": "https://i.imgur.com/Rxphuwn.png",
+    "title": "Gourmet Food Basket",
+    "category_bg": "#f8714733",
+    "card_bg": "#F5E1DB",
+    "title_bg": "#F87147",
+    "category": "Food",
+
+    "description": "Indulge in a culinary adventure with our gourmet food basket. Explore a world of flavors with carefully selected delicacies. Treat yourself or share it as a gift.",
+    "price": "$99.99"
+  },
+  {
+    "id": 5,
+    "picture": "https://i.imgur.com/o0ocMJ7.png",
+    "title": "Outdoor Adventure Gear",
+    "category_bg": "#0052ff33",
+    "card_bg": "#D0DCF6",
+    "title_bg": "#0052FF",
+    "category": "Health",
+
+    "description": "Gear up for exciting outdoor adventures with our top-quality gear collection. From camping to hiking, we have the equipment you need to explore the great outdoors.",
+    "price": "$69.99"
+  },
+  {
+    "id": 6,
+    "picture": "https://i.imgur.com/Nc5TyW6.png",
+    "title": "Educational Book Set",
+    "category_bg": "#79c23f33",
+    "card_bg": "#79c23f26",
+    "title_bg": "#79C23F",
+    "category": "Clothing",
+
+    "description": "Explore the world of knowledge with our educational book set. It includes a diverse range of books that cover various topics and subjects. Fuel your curiosity.",
+    "price": "$59.99"
+  },
+  {
+    "id": 7,
+    "picture": "https://i.imgur.com/Rxphuwn.png",
+    "title": "Interactive Learning Toy",
+    "category_bg": "#f8714733",
+    "card_bg": "#F5E1DB",
+    "title_bg": "#F87147",
+    "category": "Food",
+
+    "description": "Enhance your child's education with our interactive learning toy. It fosters creativity, problem-solving, and fun exploration. Learning has never been this exciting!",
+    "price": "$39.99"
+  },
+  {
+    "id": 8,
+    "picture": "https://i.imgur.com/L3Xqccf.png",
+    "title": "Educational Revolution Need",
+    "category_bg": "#ff444a33",
+    "card_bg": "#F6DADB",
+    "title_bg": "#FF444A",
+    "category": "Education",
+
+    "description": "Transform your living room with our comfortable sofa set. It offers a perfect blend of style and coziness. Relax, unwind, and entertain guests in style.",
+    "price": "$649.99"
+  },
+  {
+    "id": 9,
+    "picture": "https://i.imgur.com/o0ocMJ7.png",
+    "title": "Wellness & Relaxation Package",
+    "category_bg": "#0052ff33",
+    "card_bg": "#D0DCF6",
+    "title_bg": "#0052FF",
+    "category": "Health",
+
+    "description": "Pamper yourself with our wellness and relaxation package. It includes spa essentials, aromatherapy, and relaxation tools to help you rejuvenate and unwind.",
+    "price": "$129.99"
+  },
+  {
+    "id": 10,
+    "picture": "https://i.imgur.com/Rxphuwn.png",
+    "title": "Organic Food Box",
+    "category_bg": "#f8714733",
+    "card_bg": "#F5E1DB",
+    "title_bg": "#F87147",
+    "category": "Food",
+
+    "description": "Experience the goodness of organic food with our curated food box. It's packed with fresh, healthy, and delicious organic ingredients for your meals.",
+    "price": "$69.99"
+  },
+  {
+    "id": 11,
+    "picture": "https://i.imgur.com/L3Xqccf.png",
+    "title": "Advanced Electronics Kit",
+    "category_bg": "#ff444a33",
+    "card_bg": "#F6DADB",
+    "title_bg": "#FF444A",
+    "category": "Education",
+
+    "description": "Embark on an electronic journey with our advanced electronics kit. Learn about circuits, components, and create exciting electronic projects.",
+    "price": "$89.99"
+  },
+  {
+    "id": 12,
+    "picture": "https://i.imgur.com/Nc5TyW6.png",
+    "title": "Fashionable Clothing Set",
+    "category_bg": "#79c23f33",
+    "card_bg": "#79c23f26",
+    "title_bg": "#79C23F",
+    "category": "Clothing",
+
+    "description": "Upgrade your wardrobe with our fashionable clothing set. It includes stylish outfits for various occasions, ensuring you always look your best.",
+    "price": "$129.99"
+  }
+]
